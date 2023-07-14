@@ -1,7 +1,7 @@
 # Eşdizimlilik Projesi
 
-<img src="https://github.com/atahann7/esdizimlilik-projesi/blob/master/blob/image/heatmap_left.png" alt="Heatmap Left" width="500" height="300">
-<img src="https://github.com/atahann7/esdizimlilik-projesi/blob/master/blob/image/heatmap_right.png" alt="Heatmap Right" width="500" height="300">
+<img src="https://github.com/atahann7/esdizimlilik-projesi/blob/master/blob/image/heatmap_left.png" alt="Heatmap Left" width="550" height="350">
+<img src="https://github.com/atahann7/esdizimlilik-projesi/blob/master/blob/image/heatmap_right.png" alt="Heatmap Right" width="550" height="350">
 
 ## Giriş 
 
