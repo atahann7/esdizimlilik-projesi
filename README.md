@@ -1,7 +1,7 @@
 # Eşdizimlilik Projesi
 
-![](https://github.com/atahann7/esdizimlilik-projesi/blob/master/blob/image/heatmap_left.png?raw=true)
-![](https://github.com/atahann7/esdizimlilik-projesi/blob/master/blob/image/heatmap_right.png?raw=true)
+<img src="https://github.com/atahann7/esdizimlilik-projesi/blob/master/blob/image/heatmap_left.png" alt="Heatmap Left" width="400" height="200">
+<img src="https://github.com/atahann7/esdizimlilik-projesi/blob/master/blob/image/heatmap_right.png" alt="Heatmap Right" width="400" height="200">
 
 ## Giriş 
 
