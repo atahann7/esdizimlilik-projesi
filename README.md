@@ -1,5 +1,8 @@
 # Eşdizimlilik Projesi
 
+![](https://github.com/atahann7/esdizimlilik-projesi/blob/master/blob/image/heatmap_left.png?raw=true)
+![](https://github.com/atahann7/esdizimlilik-projesi/blob/master/blob/image/heatmap_right.png?raw=true)
+
 ## Giriş 
 
 Bitirme projem içindir. Bu projede, Türkçe haber sitelerinden belirli bir anahtar sözcüğe göre içerikleri toplamak, eşdizimsel ögelerini tespit etmek ve eşdizimsel ögelerin bulunduğu konumlara göre kullanım sıklığına göre hesaplamak ve son olarak elde edilen sıklık verileri sözcükleri sıcaklık haritasını oluşturmak amaçlanmaktadır.
