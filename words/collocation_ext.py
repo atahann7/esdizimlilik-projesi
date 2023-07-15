@@ -73,5 +73,3 @@ class Collocation:
         # haber sitesinin ismine göre dosyası kaydet
         self.word_data.to_csv(f'data/{self.n_name}_col_words.csv', index=False)
 
-col = Collocation(data="../utils/milliyet_clean_data.csv",keyword="bipolar",news="milliyet")
-col.word_extractor()
