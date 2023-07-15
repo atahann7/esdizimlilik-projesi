@@ -44,5 +44,4 @@ class Data_cleaner:
         if save_file == True:
             self.data.to_csv(f"{news_name}_clean_data.csv")
 
-dc = Data_cleaner("../news/data/milliyet_data.csv","bipolar")
-dc.clean_unwanted(news_name="milliyet",save_file=True)
+
