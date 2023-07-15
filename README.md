@@ -12,4 +12,7 @@ Bitirme projem içindir. Bu projede, Türkçe haber sitelerinden belirli bir ana
 >-news/news_scraper.py ile belirli beş haber sitesinden anahtar sözcüğe göre içerikler site adı, içerik, url vs. olmak üzere habersitesi_data.csv dosyasına dönüştürülür.  
 >-utils/data.cleaner.py ile .csv dosyalarındaki veriler arındırılır ve temizlenmiş habersitesi_clean_data.csv dosyaları olarak kaydedilir.  
 >-words/collocation_ext.py ile eşdizimsel ögeler tespit edilir ve habersitesi_col_words.csv olarak dosyaları olarak kaydeder.  
->-words/to_heatmap_merged.py habersitesi_col_words.csv dosyaları alır ve sıcaklık haritasını dönüşütürüp left_heatmap ve right_heatmap olarak kaydeder. 
+>-words/to_heatmap_merged.py habersitesi_col_words.csv dosyaları alır ve sıcaklık haritasını dönüşütürüp left_heatmap ve right_heatmap olarak kaydeder.
+
+## Dikkat
+Bu proje hiçbir şekilde kâr amacı gütmemektedir; tamamen bilimsel araştırma amacıyla yapılmıştır.
